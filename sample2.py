@@ -6,3 +6,10 @@ elif x < 20 :
 else:
     print('Very big')
 print ('Finis')
+
+smallest = 0
+value = 'hello'
+if smallest is None : 
+    smallest = value
+
+print(smallest)
