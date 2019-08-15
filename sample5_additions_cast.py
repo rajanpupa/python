@@ -7,3 +7,5 @@ pay = float(hrs) * float(rate)
 
 # use comma instead of + sign to print string and float
 print("Pay:", pay)
+# String can be formatted like so
+print("Pay: ${}".format(pay))

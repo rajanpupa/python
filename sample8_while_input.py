@@ -15,4 +15,5 @@ while True:
     tot = tot + fval
 
 # print ('All Done!!')
+# Print total sum, total number of inputs and average 
 print (tot, num, tot/num)

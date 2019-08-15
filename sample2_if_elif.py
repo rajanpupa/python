@@ -9,6 +9,8 @@ print ('Finis')
 
 smallest = 0
 value = 'hello'
+# None is like null. Only None can be None
+# Nothing else can be None
 if smallest is None : 
     smallest = value
 
